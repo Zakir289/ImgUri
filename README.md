@@ -45,3 +45,4 @@ background-image: url(data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAA
  -  Use ```npm install``` to install the necessery files specified in package.json . 
  - You can find index.js file under test folder, run the file using ```node index.js``` which will fetch the images from the specified server and converts them if their size is less than 4kb.
  - Use the generated code in Html or css. 
+ - ![alt output] (https://github.com/Zakir289/ImgUri/blob/master/ExplanationImages/Screen%20Shot%202015-08-06%20at%2019.37.13.png)
